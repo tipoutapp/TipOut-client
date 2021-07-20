@@ -10,7 +10,7 @@
   "dependencies": {
     "google-maps-react": "^2.0.2",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-firebase": "https://github.com/invertase/react-native-firebase.git#v5.x.x",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-google-signin": "^2.0.0",
